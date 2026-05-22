@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn
+pandas
+plotly
+requests
+google-generativeai
+groq
+python-dotenv
+textblob
+sqlalchemy
